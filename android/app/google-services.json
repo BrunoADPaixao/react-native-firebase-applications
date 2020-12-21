@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797555695801",
+    "project_id": "pocreactnativeanalytics",
+    "storage_bucket": "pocreactnativeanalytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797555695801:android:a00b849cbe02ef941d7b68",
+        "android_client_info": {
+          "package_name": "com.pocreactnaviteanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797555695801-4mo9q7cpo43b5o3unpip5grhl1ep3urj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHifOXVhHqPo9fTljUaylVDNhN99VmYUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797555695801-4mo9q7cpo43b5o3unpip5grhl1ep3urj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
